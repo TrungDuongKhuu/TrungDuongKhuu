@@ -1,8 +1,3 @@
-Below is a **faithful, professional English translation** of your content.
-I keep the structure, meaning, and tone academic–portfolio oriented (not marketing, not “AI-sounding”).
-
----
-
 # Khuu Trung Duong
 
 Final-year **Computer Science** student at **Ton Duc Thang University**.
@@ -221,13 +216,8 @@ Each repository will include:
 
 If you would like to discuss Data, AI, or Game Development projects in more detail, feel free to contact me:
 
-* Email: **[duongkhuu2002@gmail.com](mailto:duongkhuu2002@gmail.com)**
+* Email: **[khuutrungduongwork@gmail.com](mailto:khuutrungduongwork@gmail.com)**
 
 I will continue updating this GitHub as I refine my projects and complete additional academic and personal work.
 
----
 
-If you want next, I can:
-
-* **Condense this into a recruiter-friendly “short version”** for your GitHub profile, or
-* Help you **extract only the 3 core projects** and rewrite this as a focused intern portfolio.
