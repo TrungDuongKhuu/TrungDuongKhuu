@@ -1,151 +1,181 @@
-# Khưu Trùng Dương
+# Khuu Trung Duong
 
-Tôi là sinh viên năm 4 ngành **Khoa học Máy tính** tại **Trường Đại học Tôn Đức Thắng**.  
-GitHub này được sử dụng như một **portfolio kỹ thuật**, phản ánh quá trình học tập và những sản phẩm thực tế tôi đã và đang triển khai trong chương trình đào tạo.
+*(Khưu Trùng Dương)*
 
-Định hướng chính của tôi hiện tại:
-- **Data & AI**
-- **Game Development (Unity / Unreal Engine)**
+Final-year **Computer Science** student at **Ton Duc Thang University**.
 
-Mục tiêu của GitHub này là:
-- Trình bày **nền tảng kiến thức kỹ thuật** đã được đào tạo một cách có hệ thống
-- Lưu trữ **các sản phẩm và dự án có kết quả cụ thể**, được tổ chức rõ ràng theo từng hướng
+This GitHub is maintained as a **technical academic portfolio**, reflecting my learning trajectory and practical work throughout the Computer Science program.
+Repositories are created only when there are **clear outcomes, implementations, or demonstrable results**.
 
----
+My current primary focus areas are:
 
-## I. Nền tảng kiến thức (Technical Foundation)
-
-Phần này nhằm **mô tả nền tảng học thuật và kỹ thuật** tôi đã được đào tạo.  
-Các học phần dưới đây **không được tạo repository riêng**, vì chúng chủ yếu cung cấp nền tảng lý thuyết cho các sản phẩm ở phần sau.
-
-### 1. Toán cho Khoa học Máy tính và Data
-
-- Giải tích ứng dụng cho Công nghệ thông tin  
-- Đại số tuyến tính cho Công nghệ thông tin  
-- Cấu trúc rời rạc  
-- Xác suất và thống kê ứng dụng cho Công nghệ thông tin  
-
-Kiến thức đạt được:
-- Hiểu và vận dụng vector, ma trận và hệ phương trình tuyến tính.
-- Nắm các khái niệm xác suất, phân phối, kỳ vọng, phương sai, ước lượng và kiểm định.
-- Mô hình hóa bài toán thực tế dưới dạng toán học và thống kê, làm nền cho học máy và phân tích dữ liệu.
+* **Data & Artificial Intelligence**
+* **Game Development (Unity / Unreal Engine)**
 
 ---
 
-### 2. Lập trình và Giải thuật
+## 1. Purpose of This GitHub
 
-- Phương pháp lập trình  
-- Lập trình hướng đối tượng  
-- Cấu trúc dữ liệu và giải thuật  
-- Phân tích và thiết kế giải thuật   
+This GitHub aims to:
 
-Kiến thức đạt được:
-- Tư duy giải quyết vấn đề theo hướng thuật toán.
-- Khả năng lựa chọn cấu trúc dữ liệu và giải pháp phù hợp với bài toán.
-- Lập trình hướng đối tượng, tổ chức mã nguồn rõ ràng, có khả năng mở rộng và bảo trì.
-- Nhận thức được ảnh hưởng của độ phức tạp thuật toán tới hiệu năng hệ thống.
+* Present my **technical foundation** in a structured and transparent manner.
+* Store **course-related and personal projects** with concrete results.
+* Organize repositories clearly by **learning direction and application domain**, rather than creating empty or purely theoretical repositories.
 
 ---
 
-### 3. Hệ thống, kiến trúc máy tính và mạng
+## 2. Technical Foundation (No Separate Repositories)
 
-- Tổ chức máy tính  
-- Nhập môn hệ điều hành  
-- Nhập môn mạng máy tính  
+The following subjects form my academic and technical foundation.
+They are **not represented as standalone repositories**, as they primarily support the projects presented in later sections.
 
-Kiến thức đạt được:
-- Hiểu cách chương trình được thực thi trên phần cứng.
-- Nắm khái niệm tiến trình, luồng, lập lịch và đồng bộ.
-- Hiểu nguyên lý hoạt động của mạng máy tính, mô hình OSI và TCP/IP.
-- Có nền tảng để làm việc với ứng dụng đa luồng, client–server và hệ thống phân tán.
+### 2.1. Mathematics for Computer Science & Data
 
----
+Relevant coursework:
 
-### 4. Cơ sở dữ liệu, hệ thống thông tin và bảo mật
+* Calculus for Information Technology
+* Linear Algebra for Information Technology
+* Discrete Mathematics
+* Probability and Statistics for Information Technology
 
-- Hệ cơ sở dữ liệu  
-- Quản trị hệ thống thông tin  
-- Nhập môn bảo mật thông tin  
-- Nhập môn bảo mật máy tính  
+Knowledge acquired:
 
-Kiến thức đạt được:
-- Thiết kế và chuẩn hóa cơ sở dữ liệu, truy vấn SQL.
-- Hiểu vai trò của dữ liệu trong hệ thống thông tin.
-- Nhận thức các rủi ro bảo mật phổ biến và vai trò của xác thực, phân quyền, mã hóa.
+* Understanding and application of vectors, matrices, and linear systems.
+* Core concepts of probability, distributions, expectation, variance, estimation, and hypothesis testing.
+* Mathematical and statistical modeling of real-world problems as a basis for machine learning and data analysis.
 
 ---
 
-### 5. Công nghệ phần mềm và triển khai
+### 2.2. Programming and Algorithms
 
-- Công nghệ phần mềm  
-- Lập trình web và ứng dụng 
+Relevant coursework:
 
-Kiến thức đạt được:
-- Hiểu vòng đời phát triển phần mềm, web.
-- Làm việc theo dự án, có phân công nhiệm vụ và báo cáo kết quả.
-- Viết tài liệu kỹ thuật và trình bày giải pháp một cách có hệ thống.
+* Programming Methodology
+* Object-Oriented Programming
+* Data Structures and Algorithms
+* Algorithm Analysis and Design
 
----
+Knowledge acquired:
 
-## II. Sản phẩm và dự án (Repositories)
-
-Phần này bao gồm **các repository có sản phẩm cụ thể**, được tổ chức theo từng hướng học tập và triển khai.  
-Mỗi repository sẽ có README riêng mô tả mục tiêu, nội dung và kết quả đạt được.
-
-### 1. Data & AI
-
-- **Phân tích và trực quan hóa dữ liệu**  
-  → Các dự án EDA, trực quan hóa và phân tích dữ liệu thực tế.
-
-- **Machine Learning / Deep Learning**  
-  → Các bài toán học máy và học sâu (classification, regression, mô hình neural network).
-
-- **Khai thác dữ liệu & Xử lý ngôn ngữ tự nhiên**  
-  → Các mini project về data mining, clustering và NLP.
+* Algorithmic problem-solving mindset.
+* Selection of appropriate data structures and algorithms for given problems.
+* Object-oriented programming with clear, extensible, and maintainable code structures.
+* Awareness of algorithmic complexity and its impact on system performance.
 
 ---
 
-### 3. Game Development
+### 2.3. Systems, Computer Architecture, and Networking
 
-- **Unity (2D Projects)**  
-  → Các demo game 2D, puzzle và hệ thống gameplay.
+Relevant coursework:
 
-- **Unreal Engine (3D Project)**  
-  → Dự án game 3D với AI hành vi, animation, hiệu ứng và UI.
+* Computer Organization
+* Introduction to Operating Systems
+* Introduction to Computer Networks
 
----
+Knowledge acquired:
 
-### 4. Hệ thống & Cloud
-
-- **Điện toán đám mây / Docker**  
-  → Các dự án và tài liệu triển khai hệ thống bằng Docker và Docker Compose.
-
----
-
-### 5. Web
-
-- **Web bán hàng**  
-  → Các dự án và tài liệu triển khai hệ thống Web bán hàng.
+* Understanding of how programs execute on hardware.
+* Core concepts of processes, threads, scheduling, and synchronization.
+* Fundamentals of computer networks, OSI and TCP/IP models.
+* Foundational knowledge for multithreaded, client–server, and distributed systems.
 
 ---
 
-### 6. Ứng dụng Checklist công việc
+### 2.4. Databases, Information Systems, and Security
 
-- **App Checklist công việc**  
-  → Các dự án và tài liệu triển khai hệ thống App Checklist công việc.
+Relevant coursework:
+
+* Database Systems
+* Information Systems Management
+* Introduction to Information Security
+* Introduction to Computer Security
+
+Knowledge acquired:
+
+* Database design, normalization, and SQL querying.
+* Understanding the role of data within information systems.
+* Awareness of common security risks and the importance of authentication, authorization, and encryption.
 
 ---
 
-## III. Ghi chú tổ chức GitHub
+### 2.5. Software Engineering and Deployment
 
-- Repository **chỉ được tạo khi có sản phẩm hoặc kết quả cụ thể**.
-- Kiến thức nền được trình bày tập trung trong README này, không tạo repo rỗng.
-- Mỗi repository đều có:
-  - README mô tả mục tiêu và nội dung
-  - Cấu trúc thư mục rõ ràng (`src/`, `notebooks/`, `docs/`, `assets/`)
-  - Demo, hình ảnh hoặc kết quả minh họa nếu có
+Relevant coursework:
+
+* Software Engineering
+* Web and Application Development
+
+Knowledge acquired:
+
+* Understanding of software and web development lifecycles.
+* Team-based project work with task allocation and reporting.
+* Writing technical documentation and presenting solutions systematically.
 
 ---
 
-## IV. Liên hệ
-- Email: **khuutrungduongwork@gmail.com**
+## 3. Projects and Repositories
+
+This section includes repositories with **concrete implementations and outcomes**.
+Each repository contains its own README describing objectives, scope, and results.
+
+### 3.1. Data & AI
+
+* **Data Analysis & Visualization**
+  → EDA projects, visualization, and analysis on real datasets.
+
+* **Machine Learning / Deep Learning**
+  → Classification, regression, and neural network-based problems.
+
+* **Data Mining & Natural Language Processing**
+  → Mini-projects on clustering, association rules, and NLP tasks.
+
+---
+
+### 3.2. Game Development
+
+* **Unity (2D Projects)**
+  → 2D games, puzzles, gameplay mechanics, and narrative systems.
+
+* **Unreal Engine (3D Project)**
+  → A 3D game project featuring AI behavior, animation, visual effects, and in-game UI.
+
+---
+
+### 3.3. Systems & Cloud
+
+* **Cloud Computing / Docker**
+  → Projects and documentation related to system deployment using Docker and Docker Compose.
+
+---
+
+### 3.4. Web Applications
+
+* **E-commerce Web Applications**
+  → Web-based systems for online sales and related functionalities.
+
+---
+
+### 3.5. Productivity Applications
+
+* **Task Checklist Application**
+  → Applications focused on task management and workflow organization.
+
+---
+
+## 4. GitHub Organization Notes
+
+* Repositories are created **only when a concrete product or result exists**.
+* Foundational knowledge is documented in this README instead of creating empty repositories.
+* Each repository includes:
+
+  * A clear **README** describing goals and content.
+  * A clean directory structure (`src/`, `notebooks/`, `docs/`, `assets/` where applicable).
+  * Demo materials, screenshots, or result outputs when available.
+
+---
+
+## 5. Contact
+
+* Email: **[khuutrungduongwork@gmail.com](mailto:khuutrungduongwork@gmail.com)**
+
+---
