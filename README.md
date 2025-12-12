@@ -1,3 +1,5 @@
+This profile is maintained in English. A Vietnamese version is available [here](README.vi.md).
+
 # Khuu Trung Duong
 
 *(Khưu Trùng Dương)*
