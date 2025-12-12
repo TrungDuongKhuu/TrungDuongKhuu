@@ -1,223 +1,151 @@
-# Khuu Trung Duong
+# Khưu Trùng Dương
 
-Final-year **Computer Science** student at **Ton Duc Thang University**.
-I use GitHub as a place to consolidate my academic journey, personal products, and projects developed throughout four years of study, with a particular focus on two main areas:
+Tôi là sinh viên năm 4 ngành **Khoa học Máy tính** tại **Trường Đại học Tôn Đức Thắng**.  
+GitHub này được sử dụng như một **portfolio kỹ thuật**, phản ánh quá trình học tập và những sản phẩm thực tế tôi đã và đang triển khai trong chương trình đào tạo.
 
-* **Data & AI**
-* **Game Development (Unity / Unreal Engine)**
+Định hướng chính của tôi hiện tại:
+- **Data & AI**
+- **Game Development (Unity / Unreal Engine)**
 
----
-
-## 1. Academic Overview
-
-Throughout the Computer Science program, I have completed all major knowledge domains, including:
-
-* Mathematics for Computer Science: calculus, linear algebra, probability and statistics.
-* Programming: C/C++, object-oriented programming, data structures and algorithms, functional programming.
-* Operating systems, computer networks, embedded systems.
-* Databases, system analysis and design, web development, information systems.
-* Security: introduction to information security, service quality and safety management, computer security.
-* Data & AI: machine learning fundamentals, artificial intelligence, deep learning fundamentals, data mining, data analysis and visualization, big data processing, natural language processing, digital image processing.
-* Software engineering, software testing, project management, human–computer interaction, ERP, Java, .NET, mobile application development.
-* Supporting courses such as technical writing skills and English.
-
-My GitHub will gradually be reorganized according to these knowledge areas, with each repository associated with **a specific course or a group of related courses and corresponding practical products**.
+Mục tiêu của GitHub này là:
+- Trình bày **nền tảng kiến thức kỹ thuật** đã được đào tạo một cách có hệ thống
+- Lưu trữ **các sản phẩm và dự án có kết quả cụ thể**, được tổ chức rõ ràng theo từng hướng
 
 ---
 
-## 2. Core Knowledge Areas and Related Skills
+## I. Nền tảng kiến thức (Technical Foundation)
 
-### 2.1. Mathematics – Foundation for Data & AI
+Phần này nhằm **mô tả nền tảng học thuật và kỹ thuật** tôi đã được đào tạo.  
+Các học phần dưới đây **không được tạo repository riêng**, vì chúng chủ yếu cung cấp nền tảng lý thuyết cho các sản phẩm ở phần sau.
 
-Relevant courses: calculus, linear algebra, probability and statistics.
+### 1. Toán cho Khoa học Máy tính và Data
 
-From this group of courses, I have developed:
+- Giải tích ứng dụng cho Công nghệ thông tin  
+- Đại số tuyến tính cho Công nghệ thông tin  
+- Cấu trúc rời rạc  
+- Xác suất và thống kê ứng dụng cho Công nghệ thông tin  
 
-* Practical understanding of matrices, vectors, and linear systems for ML/DL applications.
-* Knowledge of probability distributions, expectation, variance, estimation, and hypothesis testing.
-* The ability to model real-world problems in mathematical form.
-
-**Planned related repositories:**
-
-* Notebooks on **probability and statistics applied to data science**.
-* Small examples such as parameter estimation, hypothesis testing, and distribution simulation.
-
----
-
-### 2.2. Programming, Data Structures, and Algorithms
-
-Relevant courses: basic programming, object-oriented programming, data structures and algorithms, functional programming, Java, .NET.
-
-Skills acquired:
-
-* Object-oriented programming with C++, C#, and Java.
-* Use of core data structures: arrays, lists, stacks, queues, trees, and graphs.
-* Implementation of sorting, searching, graph traversal, and dynamic programming algorithms.
-* Writing clean, modular, and maintainable code.
-
-**Planned projects/repositories:**
-
-* `data-structures-and-algorithms`: a collection of implemented algorithms and exercises.
-* Several small OOP-based mini projects (console or lightweight desktop applications).
+Kiến thức đạt được:
+- Hiểu và vận dụng vector, ma trận và hệ phương trình tuyến tính.
+- Nắm các khái niệm xác suất, phân phối, kỳ vọng, phương sai, ước lượng và kiểm định.
+- Mô hình hóa bài toán thực tế dưới dạng toán học và thống kê, làm nền cho học máy và phân tích dữ liệu.
 
 ---
 
-### 2.3. Operating Systems, Networking, and Security
+### 2. Lập trình và Giải thuật
 
-Relevant courses: operating systems fundamentals, computer networks, embedded systems, introduction to information security, service quality and safety management, computer security.
+- Phương pháp lập trình  
+- Lập trình hướng đối tượng  
+- Cấu trúc dữ liệu và giải thuật  
+- Phân tích và thiết kế giải thuật   
 
-Skills acquired:
-
-* Understanding of processes, threads, scheduling, synchronization (mutex, semaphore, deadlock).
-* Familiarity with TCP/IP, OSI model, sockets, and routing fundamentals.
-* Awareness of common security issues and the role of encryption, authentication, and authorization.
-* Experience with multithreading simulations such as producer–consumer and reader–writer problems.
-
-**Planned repositories:**
-
-* `operating-system-labs`: multithreading, synchronization, and OS mechanism simulations.
-* `computer-networking-labs`: basic socket-based client/server examples.
+Kiến thức đạt được:
+- Tư duy giải quyết vấn đề theo hướng thuật toán.
+- Khả năng lựa chọn cấu trúc dữ liệu và giải pháp phù hợp với bài toán.
+- Lập trình hướng đối tượng, tổ chức mã nguồn rõ ràng, có khả năng mở rộng và bảo trì.
+- Nhận thức được ảnh hưởng của độ phức tạp thuật toán tới hiệu năng hệ thống.
 
 ---
 
-### 2.4. Databases, Web, and Information Systems
+### 3. Hệ thống, kiến trúc máy tính và mạng
 
-Relevant courses: database systems, system analysis and design, requirements analysis, web and application development, ERP systems, information systems management, e-commerce.
+- Tổ chức máy tính  
+- Nhập môn hệ điều hành  
+- Nhập môn mạng máy tính  
 
-Skills acquired:
-
-* Database modeling (ERD), normalization, and SQL querying.
-* Understanding of system analysis and design workflows.
-* Basic web development (front-end/back-end), layered architectures, and APIs.
-* A holistic view of the relationship between **applications, databases, users, and infrastructure**.
-
-**Planned repositories:**
-
-* Small web or API demos (cleaned and reorganized from previous coursework if applicable).
-* Short documentation describing database models used in course projects.
+Kiến thức đạt được:
+- Hiểu cách chương trình được thực thi trên phần cứng.
+- Nắm khái niệm tiến trình, luồng, lập lịch và đồng bộ.
+- Hiểu nguyên lý hoạt động của mạng máy tính, mô hình OSI và TCP/IP.
+- Có nền tảng để làm việc với ứng dụng đa luồng, client–server và hệ thống phân tán.
 
 ---
 
-### 2.5. Data Science, Machine Learning, and AI
+### 4. Cơ sở dữ liệu, hệ thống thông tin và bảo mật
 
-This is the primary area I plan to focus on moving forward.
+- Hệ cơ sở dữ liệu  
+- Quản trị hệ thống thông tin  
+- Nhập môn bảo mật thông tin  
+- Nhập môn bảo mật máy tính  
 
-Relevant courses:
-
-* Introduction to Machine Learning
-* Introduction to Artificial Intelligence
-* Introduction to Deep Learning
-* Data Mining and Knowledge Discovery
-* Data Analysis and Visualization
-* Big Data Processing
-* Introduction to Natural Language Processing
-* Introduction to Digital Image Processing
-
-Skills and knowledge:
-
-* Data cleaning, handling missing values, feature encoding, and normalization.
-* Performing EDA with Python, creating visualizations, and extracting insights.
-* Building ML models: regression, classification, decision trees, KNN, K-means, etc.
-* Understanding classical AI algorithms: BFS/DFS, A*, heuristic search.
-* Familiarity with the pipeline of data mining tasks.
-* Basic understanding of big data concepts such as MapReduce and distributed processing.
-* NLP fundamentals: tokenization, bag-of-words, TF-IDF, text classification.
-* Image processing basics: preprocessing, filtering, edge detection, feature extraction.
-
-**Key repositories planned for GitHub:**
-
-* `eda-visualization-project`: detailed analysis of one or more datasets.
-* `machine-learning-basics`: core classification and regression problems.
-* `data-mining-project`: clustering and association rule mining examples.
-* `nlp-basic-models`: small NLP projects (sentiment analysis, text classification).
-* `big-data-processing`: big data practice tasks (if sufficient implementation is available).
+Kiến thức đạt được:
+- Thiết kế và chuẩn hóa cơ sở dữ liệu, truy vấn SQL.
+- Hiểu vai trò của dữ liệu trong hệ thống thông tin.
+- Nhận thức các rủi ro bảo mật phổ biến và vai trò của xác thực, phân quyền, mã hóa.
 
 ---
 
-### 2.6. Game Development: Unity & Unreal Engine
+### 5. Công nghệ phần mềm và triển khai
 
-I have invested significant time in game development, both as a personal interest and as a way to strengthen my programming and system design skills.
+- Công nghệ phần mềm  
+- Lập trình web và ứng dụng 
 
-Relevant coursework and activities:
-
-* **Game Development** course (as part of the curriculum).
-* Self-learning and project work using **Unity** (2D games, puzzles, narrative systems).
-* A major project using **Unreal Engine** (shooter, AI, VFX).
-
-Skills acquired:
-
-* Unity: C#, scene management, UI, animation, dialogue systems, puzzle logic.
-* Unreal Engine: Blueprints, AI Behavior Trees, animation blueprints, Niagara, in-game UI.
-* Level design, lighting, player interaction, triggers, and collision handling.
-* Project organization, size optimization, and packaging.
-
-**Planned repositories:**
-
-* `unity-portfolio-projects`: demos such as Train Stop, Office Room, Sokoban, Jigsaw, and dialogue systems.
-* `unreal-shooter-demo`: a shooter project featuring enemy AI, VFX, and score/HP UI.
+Kiến thức đạt được:
+- Hiểu vòng đời phát triển phần mềm, web.
+- Làm việc theo dự án, có phân công nhiệm vụ và báo cáo kết quả.
+- Viết tài liệu kỹ thuật và trình bày giải pháp một cách có hệ thống.
 
 ---
 
-### 2.7. Software Engineering, Testing, and Project Management
+## II. Sản phẩm và dự án (Repositories)
 
-Relevant courses: software engineering, requirements analysis and design, software testing, project management, human–computer interaction, technical writing.
+Phần này bao gồm **các repository có sản phẩm cụ thể**, được tổ chức theo từng hướng học tập và triển khai.  
+Mỗi repository sẽ có README riêng mô tả mục tiêu, nội dung và kết quả đạt được.
 
-Skills acquired:
+### 1. Data & AI
 
-* Understanding of the software development lifecycle and use cases.
-* Knowledge of testing types: unit, integration, system, and acceptance testing.
-* Writing technical documentation, reports, and system architecture descriptions.
-* Designing user-friendly interfaces.
+- **Phân tích và trực quan hóa dữ liệu**  
+  → Các dự án EDA, trực quan hóa và phân tích dữ liệu thực tế.
 
-These skills directly influence how I structure repositories and write documentation on GitHub.
+- **Machine Learning / Deep Learning**  
+  → Các bài toán học máy và học sâu (classification, regression, mô hình neural network).
 
----
-
-## 3. GitHub Organization Strategy
-
-To make my GitHub easy to navigate for recruiters, instructors, and peers, repositories will be organized into the following main groups:
-
-1. **Algorithms & Programming**
-
-   * `data-structures-and-algorithms`
-   * Several OOP-based mini projects.
-
-2. **Data & AI**
-
-   * `eda-visualization-project`
-   * `machine-learning-basics`
-   * `data-mining-project`
-   * `nlp-basic-models`
-   * `big-data-processing` (if sufficient material is available).
-
-3. **Game Development**
-
-   * `unity-portfolio-projects`
-   * `unreal-shooter-demo`.
-
-4. **Systems & Networking**
-
-   * `operating-system-labs`
-   * `computer-networking-labs`.
-
-5. **DevOps / Cloud (conceptual understanding)**
-
-   * `minicloud-docker-compose` or similar, documenting insights gained from the MiniCloud group project.
-
-Each repository will include:
-
-* A **clear README** describing objectives, technologies used, how to run demos, and lessons learned.
-* A **clean directory structure**, separating `src/`, `notebooks/`, `docs/`, and `assets` when appropriate.
-* **Executable demos or screenshots/videos**, especially for game projects.
+- **Khai thác dữ liệu & Xử lý ngôn ngữ tự nhiên**  
+  → Các mini project về data mining, clustering và NLP.
 
 ---
 
-## 4. Contact
+### 3. Game Development
 
-If you would like to discuss Data, AI, or Game Development projects in more detail, feel free to contact me:
+- **Unity (2D Projects)**  
+  → Các demo game 2D, puzzle và hệ thống gameplay.
 
-* Email: **[khuutrungduongwork@gmail.com](mailto:khuutrungduongwork@gmail.com)**
+- **Unreal Engine (3D Project)**  
+  → Dự án game 3D với AI hành vi, animation, hiệu ứng và UI.
 
-I will continue updating this GitHub as I refine my projects and complete additional academic and personal work.
+---
 
+### 4. Hệ thống & Cloud
 
+- **Điện toán đám mây / Docker**  
+  → Các dự án và tài liệu triển khai hệ thống bằng Docker và Docker Compose.
+
+---
+
+### 5. Web
+
+- **Web bán hàng**  
+  → Các dự án và tài liệu triển khai hệ thống Web bán hàng.
+
+---
+
+### 6. Ứng dụng Checklist công việc
+
+- **App Checklist công việc**  
+  → Các dự án và tài liệu triển khai hệ thống App Checklist công việc.
+
+---
+
+## III. Ghi chú tổ chức GitHub
+
+- Repository **chỉ được tạo khi có sản phẩm hoặc kết quả cụ thể**.
+- Kiến thức nền được trình bày tập trung trong README này, không tạo repo rỗng.
+- Mỗi repository đều có:
+  - README mô tả mục tiêu và nội dung
+  - Cấu trúc thư mục rõ ràng (`src/`, `notebooks/`, `docs/`, `assets/`)
+  - Demo, hình ảnh hoặc kết quả minh họa nếu có
+
+---
+
+## IV. Liên hệ
+- Email: **khuutrungduongwork@gmail.com**
